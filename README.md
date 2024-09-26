@@ -13,4 +13,5 @@ Find and equip your saddle onto your tamed horse
 
 ### 2.3 Accessing the Inventory
 Hold shift and left-click your horse to bring up the inventory. This will bring up a storage slot of 9 spaces you can fill with whatever you like!
+
 <img width="357" alt="Screenshot 2024-09-26 at 11 21 15" src="https://github.com/user-attachments/assets/0d86d791-220e-4e55-8b9d-d62ec00a1fb0">
